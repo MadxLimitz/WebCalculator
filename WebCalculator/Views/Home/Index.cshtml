@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <h1>Taschenrechner</h1>
+        <form action="/Home/AddToDisplay" method="post">
+            <input type="text" class="result" id="display" name="display" placeholder="0" value="@ViewBag.Display">
+            <div class="button-container">
+                <!-- Buttons -->
+                <button class="button" type="submit" value="1" name="buttonValue">1</button>
+                <button class="button" type="submit" value="2" name="buttonValue">2</button>
+                <button class="button" type="submit" value="3" name="buttonValue">3</button>
+                <button class="button" type="submit" value="4" name="buttonValue">4</button>
+                <button class="button" type="submit" value="5" name="buttonValue">5</button>
+                <button class="button" type="submit" value="6" name="buttonValue">6</button>
+                <button class="button" type="submit" value="7" name="buttonValue">7</button>
+                <button class="button" type="submit" value="8" name="buttonValue">8</button>
+                <button class="button" type="submit" value="9" name="buttonValue">9</button>
+                <button class="button" type="submit" value="0" name="buttonValue">0</button>
+                <button class="button" type="submit" value="+" name="buttonValue">+</button>
+                <button class="button" type="submit" value="-" name="buttonValue">-</button>
+                <button class="button" type="submit" value="*" name="buttonValue">*</button>
+                <button class="button" type="submit" value="/" name="buttonValue">/</button>
+                <button class="button" type="submit" value="." name="buttonValue">.</button>
+                <button class="remove-button" type="button"></button>
+                <button class="enter-button" type="button"></button>
+            </div>
+        </form>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // When the enter button is clicked
+            $('.enter-button').click(function () {
+                sendAjaxRequest();
+            });
+
+            // When the remove button is clicked
+            $('.remove-button').click(function () {
+                var displayValue = $('#display').val();
+                if (displayValue.length > 0) {
+                    displayValue = displayValue.slice(0, -1); // Remove last character
+                    $('#display').val(displayValue); // Update display
+                }
+            });
+
+            function sendAjaxRequest() {
+                // Get the value from the display
+                var displayValue = $('#display').val();
+
+                // Make an AJAX request
+                $.ajax({
+                    url: '/Home/Calculate', // Adjust the path according to your controller action
+                    method: 'POST',
+                    data: {
+                        display: displayValue
+                    },
+                    success: function (response) {
+                        // Update the display with the result
+                        $('#display').val(response.result);
+                    },
+                    error: function (xhr, status, error) {
+                        console.error(error);
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>

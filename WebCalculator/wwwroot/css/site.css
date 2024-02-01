@@ -1,0 +1,126 @@
+﻿/* Globale Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: darkgray;
+    padding: 20px;
+    border-radius: 10px; /* Abgerundete Ecken */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex; /* Flexbox-Layout für die Buttons */
+    justify-content: center; /* Zentriert die Buttons horizontal */
+    flex-wrap: wrap; /* Umbruch der Buttons bei Bedarf */
+}
+
+/* Tastenfeld */
+.button {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    margin: 7.4px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Sanfte Farbübergänge */
+    background-color: orange;
+}
+
+    .button:active {
+        animation: buttonClick 0.2s ease;
+    }
+
+    .button:hover {
+        background-color: #ccc;
+    }
+
+/* Ergebnisfeld */
+.result {
+    font-size: 24px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 15px;
+}
+
+/* Animationen */
+@keyframes buttonClick {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Entertaste */
+.enter-button {
+    position: relative; /* Positionierung relativ für das Pseudo-Element */
+    font-family: Arial, sans-serif;
+    width: 125px;
+    height: 40px;
+    font-size: 20px;
+    margin: 5px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px; /* Abgerundete Ecken der Tasten */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Sanfte Farbübergänge */
+    background-color: orange;
+}
+
+    .enter-button::before {
+        content: "\21A9"; /* Unicode-Zeichen für das Enter-Symbol */
+        font-family: Arial, sans-serif;
+        font-size: 30px;
+    }
+
+    .enter-button:active {
+        animation: buttonClick 0.2s ease;
+    }
+
+    .enter-button:hover {
+        background-color: #ccc; /* Farbänderung bei Hover */
+    }
+
+/* Entfernentaste */
+.remove-button {
+    position: relative; /* Positionierung relativ für das Pseudo-Element */
+    font-family: Arial, sans-serif;
+    width: 125px;
+    height: 40px;
+    font-size: 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px; /* Abgerundete Ecken der Tasten */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Sanfte Farbübergänge */
+    background-color: orange;
+}
+
+    .remove-button::before {
+        content: "\2190"; /* Unicode-Zeichen für das Entfernen-Symbol */
+        font-family: Arial, sans-serif;
+        font-size: 30px;
+    }
+
+    .remove-button:active {
+        animation: buttonClick 0.2s ease;
+    }
+
+    .remove-button:hover {
+        background-color: #ccc; /* Farbänderung bei Hover */
+    }
