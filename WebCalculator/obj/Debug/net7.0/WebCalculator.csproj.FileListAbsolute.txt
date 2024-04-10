@@ -1,0 +1,675 @@
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/appsettings.Development.json
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/appsettings.json
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.staticwebassets.runtime.json
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.deps.json
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.runtimeconfig.json
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.pdb
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.csproj.AssemblyReference.cache
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.AssemblyInfoInputs.cache
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.AssemblyInfo.cs
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.csproj.CoreCompileInputs.cache
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.MvcApplicationPartsAssemblyInfo.cache
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.RazorAssemblyInfo.cache
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.RazorAssemblyInfo.cs
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.WebCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.build.WebCalculator.props
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebCalculator.props
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebCalculator.props
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets.build.json
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets.development.json
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/scopedcss/bundle/WebCalculator.styles.css
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/scopedcss/projectbundle/WebCalculator.bundle.scp.css
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/refint/WebCalculator.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.pdb
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.genruntimeconfig.cache
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/ref/WebCalculator.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Humanizer.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Common.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/af/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ar/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/az/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/bg/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/da/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/el/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fa/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/he/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/hr/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/hu/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/id/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/is/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/lv/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/mt/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/nb/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/nl/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pt/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ro/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/sk/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/sl/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/sr/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/sv/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/uk/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/vi/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.csproj.CopyComplete
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/Antlr4.Runtime.Standard.dll
+/Users/sebastiansteiner/Documents/GitHub/WebCalculator/WebCalculator/bin/Debug/net7.0/NCalc.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/appsettings.json
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.staticwebassets.runtime.json
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.deps.json
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.runtimeconfig.json
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.pdb
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Antlr4.Runtime.Standard.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Humanizer.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Build.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NCalc.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Common.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Configuration.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Packaging.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Protocol.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Versioning.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.Convention.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Drawing.Common.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Security.Permissions.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/af/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ar/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/az/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/bg/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/da/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/el/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fa/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/he/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/hr/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/hu/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/id/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/is/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/lv/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/mt/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/nb/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/nl/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pt/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ro/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/sk/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/sl/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/sr/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/sv/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/uk/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/vi/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.csproj.AssemblyReference.cache
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.AssemblyInfoInputs.cache
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.AssemblyInfo.cs
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.csproj.CoreCompileInputs.cache
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.RazorAssemblyInfo.cache
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.RazorAssemblyInfo.cs
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.WebCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.build.WebCalculator.props
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebCalculator.props
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebCalculator.props
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/scopedcss/bundle/WebCalculator.styles.css
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/scopedcss/projectbundle/WebCalculator.bundle.scp.css
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.csproj.CopyComplete
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/refint/WebCalculator.dll
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.pdb
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.genruntimeconfig.cache
+/Volumes/USB STICK/Code/VS/WebCalculator/WebCalculator/obj/Debug/net7.0/ref/WebCalculator.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/appsettings.json
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.staticwebassets.runtime.json
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.deps.json
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.runtimeconfig.json
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/WebCalculator.pdb
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Antlr4.Runtime.Standard.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Humanizer.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Build.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NCalc.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Common.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Configuration.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Packaging.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Protocol.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/NuGet.Versioning.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.Convention.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Drawing.Common.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Security.Permissions.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/af/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ar/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/az/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/bg/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/da/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/el/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fa/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/he/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/hr/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/hu/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/id/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/is/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/lv/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/mt/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/nb/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/nl/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pt/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ro/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/sk/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/sl/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/sr/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/sv/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/uk/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/vi/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.csproj.AssemblyReference.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.AssemblyInfoInputs.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.AssemblyInfo.cs
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.csproj.CoreCompileInputs.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.RazorAssemblyInfo.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.RazorAssemblyInfo.cs
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.WebCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.build.WebCalculator.props
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebCalculator.props
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebCalculator.props
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/scopedcss/bundle/WebCalculator.styles.css
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/scopedcss/projectbundle/WebCalculator.bundle.scp.css
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.csproj.CopyComplete
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/refint/WebCalculator.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.pdb
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/WebCalculator.genruntimeconfig.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/WebCalculator/WebCalculator/obj/Debug/net7.0/ref/WebCalculator.dll
